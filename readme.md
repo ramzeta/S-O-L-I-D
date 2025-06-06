@@ -235,9 +235,13 @@ class SableLaser {
 ## 🧙‍♂️ ¿Cómo saber si ya eres Maestro Jedi del Código?
 
 ✅ ¿Tus clases hacen solo una misión? (**S**)
+
 ✅ ¿Puedes añadir funcionalidades sin tocar lo viejo? (**O**)
+
 ✅ ¿Tus clases hijas se comportan como las madres? (**L**)
+
 ✅ ¿Tus interfaces no obligan a usar lo que no necesitas? (**I**)
+
 ✅ ¿Usas la Fuerza de la abstracción en lugar de cosas concretas? (**D**)
 
 ---
@@ -249,4 +253,3 @@ Cada vez que usas un principio bien, das un paso hacia el Lado Luminoso del desa
 
 ---
 
-¿Quieres que te prepare una **versión ilustrada en PDF con personajes y naves de Star Wars** para tus entrenamientos o tus jóvenes padawans? ✨
