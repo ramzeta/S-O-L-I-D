@@ -251,5 +251,32 @@ class SableLaser {
 Dominar los principios **SOLID** te da el poder de mantener tu código limpio, fuerte y preparado para cualquier batalla en la galaxia.
 Cada vez que usas un principio bien, das un paso hacia el Lado Luminoso del desarrollo profesional.
 
+En el mundo real, escribir buen código no se trata solo de seguir **SOLID** como si fueran mandamientos, sino de **integrarlo con otros principios fundamentales** según el **contexto**. Aquí te dejo un pequeño recordatorio de cómo todos estos pilares **pueden convivir armoniosamente**:
+
+---
+
+### ⚔️ SOLID + Principios universales = Código Jedi
+
+* **🧼 Clean Code:**
+  Leer tu código debería ser como leer una historia clara, sin necesidad de decodificadores Sith. Aplica nombres legibles, evita la anidación innecesaria y dale a cada función un único propósito (**SRP** puro).
+
+* **🎯 KISS (Keep It Simple, Stupid):**
+  No sobreingenierices. Un buen Jedi no lleva 10 sables láser si con uno basta. Si aplicar un patrón SOLID complica más de lo que ayuda, **KISS te devuelve el equilibrio**.
+
+* **🔁 DRY (Don’t Repeat Yourself):**
+  La repetición lleva al Lado Oscuro. Usa abstracciones, funciones reutilizables y clases limpias. ¡Pero cuidado! Reutilizar código mal abstraído rompe el principio de SRP o LSP.
+
+* **🧱 YAGNI (You Aren’t Gonna Need It):**
+  No prepares el Halcón Milenario para una batalla espacial si solo vas a cruzar la calle. No implementes lo que no necesitas hoy. Aplica solo los principios que tengan sentido en tu dominio.
+
+* **🧪 ACID (Atomicity, Consistency, Isolation, Durability):**
+  En contextos donde trabajas con bases de datos o transacciones críticas (como microservicios con eventos o sistemas bancarios), el principio de **atomicidad** se vuelve crucial. Aquí los conceptos **atomic de Java** y **atomicidad de ACID** se cruzan para proteger la integridad del sistema.
+
+---
+
+### 🚀 El Jedi del código sabe elegir el equilibrio
+
+No es necesario aplicar todo a la vez. El dominio viene de saber **cuándo aplicar cada uno**, cómo combinarlos y cómo **no romper más de lo que arreglas**.
+
 ---
 
